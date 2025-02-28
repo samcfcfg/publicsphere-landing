@@ -1,0 +1,10 @@
+:root {
+    --color-primary: #000000; /* Orange */
+    --color-secondary: #000000; /* Green */
+    --color-background: #fff8e1a9; /* Cream */
+    --color-text: #333333;
+    --color-light: #fcf1b980;
+    --color-dark: #222222;
+    --color-gray: #888888;
+    --color-gray-light: #ffffff9d;
+  }
