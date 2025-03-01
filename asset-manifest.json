@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/publicsphere-landing/static/css/main.335a2ef0.css",
+    "main.js": "/publicsphere-landing/static/js/main.45f219ec.js",
+    "index.html": "/publicsphere-landing/index.html",
+    "main.335a2ef0.css.map": "/publicsphere-landing/static/css/main.335a2ef0.css.map",
+    "main.45f219ec.js.map": "/publicsphere-landing/static/js/main.45f219ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.335a2ef0.css",
+    "static/js/main.45f219ec.js"
+  ]
+}
