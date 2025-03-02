@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/publicsphere-landing/static/css/main.335a2ef0.css",
-    "main.js": "/publicsphere-landing/static/js/main.ab41bbfd.js",
-    "static/media/PS-amap-demo.jpg": "/publicsphere-landing/static/media/PS-amap-demo.c9499db1b492e1f315f6.jpg",
-    "static/media/PS-post-demo.jpg": "/publicsphere-landing/static/media/PS-post-demo.f44568b3568ff03ea63c.jpg",
-    "index.html": "/publicsphere-landing/index.html",
-    "main.335a2ef0.css.map": "/publicsphere-landing/static/css/main.335a2ef0.css.map",
-    "main.ab41bbfd.js.map": "/publicsphere-landing/static/js/main.ab41bbfd.js.map"
+    "main.css": "/static/css/main.335a2ef0.css",
+    "main.js": "/static/js/main.c66e80d2.js",
+    "static/media/PS-amap-demo.jpg": "/static/media/PS-amap-demo.c9499db1b492e1f315f6.jpg",
+    "static/media/PS-post-demo.jpg": "/static/media/PS-post-demo.f44568b3568ff03ea63c.jpg",
+    "index.html": "/index.html",
+    "main.335a2ef0.css.map": "/static/css/main.335a2ef0.css.map",
+    "main.c66e80d2.js.map": "/static/js/main.c66e80d2.js.map"
   },
   "entrypoints": [
     "static/css/main.335a2ef0.css",
-    "static/js/main.ab41bbfd.js"
+    "static/js/main.c66e80d2.js"
   ]
 }
