@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/publicsphere-landing/static/css/main.335a2ef0.css",
-    "main.js": "/publicsphere-landing/static/js/main.45f219ec.js",
+    "main.js": "/publicsphere-landing/static/js/main.ab41bbfd.js",
+    "static/media/PS-amap-demo.jpg": "/publicsphere-landing/static/media/PS-amap-demo.c9499db1b492e1f315f6.jpg",
+    "static/media/PS-post-demo.jpg": "/publicsphere-landing/static/media/PS-post-demo.f44568b3568ff03ea63c.jpg",
     "index.html": "/publicsphere-landing/index.html",
     "main.335a2ef0.css.map": "/publicsphere-landing/static/css/main.335a2ef0.css.map",
-    "main.45f219ec.js.map": "/publicsphere-landing/static/js/main.45f219ec.js.map"
+    "main.ab41bbfd.js.map": "/publicsphere-landing/static/js/main.ab41bbfd.js.map"
   },
   "entrypoints": [
     "static/css/main.335a2ef0.css",
-    "static/js/main.45f219ec.js"
+    "static/js/main.ab41bbfd.js"
   ]
 }
