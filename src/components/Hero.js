@@ -45,21 +45,21 @@ const Hero = () => {
               fontWeight: '400',
               marginBottom: '30px',
             }}>
-              A social medium for facts
+              A space for democratic discourse
             </h2>
             <h2 style={{ 
               fontSize: '1.8rem', 
               fontWeight: '400',
               marginBottom: '30px',
             }}>
-              The solution to information overload
+              A social medium for facts
             </h2>
             <h2 style={{ 
               fontSize: '1.8rem', 
               fontWeight: '400',
               marginBottom: '15px',
             }}>
-              In development, and could use{' '}
+              {/*In development, and could use*/}{' '}
               <span 
                 onClick={scrollToSupport}
                 style={{ 
@@ -92,7 +92,7 @@ const Hero = () => {
               Evidence-Based
             </h3>
             <p style={{ fontSize: '1rem', color: 'var(--color-text)' }}>
-              Designed to bring clarity to complex ideas, making them digestible and easy to work with.
+              Designed to bring clarity to complex ideas, making them digestible and easy to work with. Prioritizes factual accuracy over engagement metrics and sensationalism.
             </p>
           </div>
           
@@ -105,7 +105,7 @@ const Hero = () => {
               Logically Structured
             </h3>
             <p style={{ fontSize: '1rem', color: 'var(--color-text)' }}>
-              Reveal the underlying simplicity in complex arguments through intuitive mapping. Prioritizes factual accuracy over engagement metrics and sensationalism.
+              Reveal the underlying simplicity in complex arguments through intuitive mapping. Countering misinformation with sound deliberation.
             </p>
           </div>
           
@@ -115,10 +115,10 @@ const Hero = () => {
               color: 'var(--color-primary)',
               marginBottom: '10px'
             }}>
-              Truth-Focused
+              Giving Space for Democratic Information
             </h3>
             <p style={{ fontSize: '1rem', color: 'var(--color-text)' }}>
-              
+              Voice on-the-ground perspectives, and place it within a larger context. 
             </p>
           </div>
         </div>

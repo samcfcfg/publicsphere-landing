@@ -60,8 +60,8 @@ const Support = () => {
               marginBottom: '10px',
               lineHeight: '1.8' 
             }}>
-              <span style={{ fontWeight: 'bold', color: 'var(--color-secondary)' }}>Become a Tester</span> - 
-              Try out early versions and provide valuable feedback
+              <span style={{ fontWeight: 'bold', color: 'var(--color-secondary)' }}>Spread the word</span> 
+              
             </li>
             <li style={{ 
               fontSize: '1.1rem', 

@@ -12,9 +12,15 @@ const Header = () => {
         justifyContent: 'space-between', 
         alignItems: 'center' 
       }}>
-        <div className="logo" style={{ fontSize: '24px', fontWeight: 'bold' }}>
-          <span style={{ color: 'var(--color-primary)' }}>Public</span>
-          <span style={{ color: 'var(--color-secondary)' }}>Sphere</span>
+        <div className="logo-container">
+          <h1 style={{ 
+            margin: '0',
+            fontSize: '1.5rem',
+            fontWeight: 'bold'
+          }}>
+            <span style={{ color: 'var(--color-primary)' }}>Public</span>
+            <span style={{ color: 'var(--color-secondary)' }}>Sphere</span>
+          </h1>
         </div>
         <nav>
           <button style={{ 

@@ -3,8 +3,7 @@ import './styles/global.css';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Features from './components/Features';
-import About from './components/About';
-import Support from './components/Support';
+import SourceExchange from './components/SourceExchange';
 import Footer from './components/Footer';
 
 function App() {
@@ -12,8 +11,9 @@ function App() {
     <div className="App">
       <Header />
       <Hero />
+      <SourceExchange />
       <Features />
-      <Support />
+
       <Footer />
     </div>
   );
